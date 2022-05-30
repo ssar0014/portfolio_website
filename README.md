@@ -1,2 +1,2 @@
-# portfolio_website
+# README
 Designing my own portfolio website in Django
